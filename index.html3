@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+   <body style="background-color: black; color:rgb(5, 175, 253);">
+  
+   </body>
+  <meta charset="UTF-8">
+  <title>Ropa de Gym</title>
+  <style>
+    table {
+      width: 70%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      border: 1px solid #333;
+      padding: 10px;
+      text-align: center;
+    }
+    th {
+      background-color: #000;
+      color: white;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    caption {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+    <a href="pagina web.html">casa</a> >
+  <table>
+    <caption>Ropa de Gym</caption>
+    <thead>
+      <tr>
+        <th>Producto</th>
+        <th>Tipo</th>
+        <th>Talla</th>
+        <th>Precio</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Playera deportiva</td>
+        <td>Unisex</td>
+        <td>S, M, L, XL</td>
+        <td>$250 MXN</td>
+      </tr>
+      <tr>
+        <td>Leggings</td>
+        <td>Mujer</td>
+        <td>XS, S, M, L</td>
+        <td>$400 MXN</td>
+      </tr>
+      <tr>
+        <td>Short deportivo</td>
+        <td>Hombre</td>
+        <td>M, L, XL</td>
+        <td>$300 MXN</td>
+      </tr>
+      <tr>
+        <td>Sudadera</td>
+        <td>Unisex</td>
+        <td>S, M, L, XL</td>
+        <td>$600 MXN</td>
+      </tr>
+    </tbody>
+  </table>
+  <center>
+<iframe width="960" height="315" src="https://www.youtube.com/embed/rgcLakyc3HI?si=QQs8-hpu8U_Ctphq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+</body>
+</html>
